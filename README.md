@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohamedsubaishi/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [1480-running-sum-of-1d-array](https://github.com/mohamedsubaishi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedsubaishi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohamedsubaishi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mohamedsubaishi/leetcode/tree/master/0067-add-binary) |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +72,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0088-merge-sorted-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
