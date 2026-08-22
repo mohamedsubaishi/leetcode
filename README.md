@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohamedsubaishi/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/mohamedsubaishi/leetcode/tree/master/0233-number-of-digit-one) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohamedsubaishi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
