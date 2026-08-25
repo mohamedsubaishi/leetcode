@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedsubaishi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/mohamedsubaishi/leetcode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mohamedsubaishi/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/mohamedsubaishi/leetcode/tree/master/0135-candy) |
 ## Minimax
 |  |
 | ------- |
