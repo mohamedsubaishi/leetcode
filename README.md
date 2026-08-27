@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohamedsubaishi/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohamedsubaishi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mohamedsubaishi/leetcode/tree/master/0067-add-binary) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohamedsubaishi/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/mohamedsubaishi/leetcode/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohamedsubaishi/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -222,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohamedsubaishi/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
