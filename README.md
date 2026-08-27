@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohamedsubaishi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/mohamedsubaishi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohamedsubaishi/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mohamedsubaishi/leetcode/tree/master/1872-stone-game-viii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohamedsubaishi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
