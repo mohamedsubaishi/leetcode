@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mohamedsubaishi/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohamedsubaishi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mohamedsubaishi/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/mohamedsubaishi/leetcode/tree/master/0233-number-of-digit-one) |
 | [1872-stone-game-viii](https://github.com/mohamedsubaishi/leetcode/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohamedsubaishi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -236,5 +238,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
