@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohamedsubaishi/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/mohamedsubaishi/leetcode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/mohamedsubaishi/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedsubaishi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mohamedsubaishi/leetcode/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/mohamedsubaishi/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mohamedsubaishi/leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/mohamedsubaishi/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohamedsubaishi/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedsubaishi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/mohamedsubaishi/leetcode/tree/master/0233-number-of-digit-one) |
 | [1872-stone-game-viii](https://github.com/mohamedsubaishi/leetcode/tree/master/1872-stone-game-viii) |
