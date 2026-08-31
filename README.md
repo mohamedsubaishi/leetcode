@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohamedsubaishi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/mohamedsubaishi/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/mohamedsubaishi/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohamedsubaishi/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mohamedsubaishi/leetcode/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohamedsubaishi/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mohamedsubaishi/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
+| [1672-richest-customer-wealth](https://github.com/mohamedsubaishi/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
