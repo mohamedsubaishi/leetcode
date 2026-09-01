@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mohamedsubaishi/leetcode/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/mohamedsubaishi/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0525-contiguous-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohamedsubaishi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mohamedsubaishi/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mohamedsubaishi/leetcode/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/mohamedsubaishi/leetcode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mohamedsubaishi/leetcode/tree/master/0383-ransom-note) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
