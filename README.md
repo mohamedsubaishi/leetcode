@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [0525-contiguous-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0525-contiguous-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohamedsubaishi/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohamedsubaishi/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mohamedsubaishi/leetcode/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mohamedsubaishi/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0525-contiguous-array) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohamedsubaishi/leetcode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
