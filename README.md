@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/mohamedsubaishi/leetcode/tree/master/0274-h-index) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
 | [0525-contiguous-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0525-contiguous-array) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohamedsubaishi/leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/mohamedsubaishi/leetcode/tree/master/0274-h-index) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohamedsubaishi/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohamedsubaishi/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/mohamedsubaishi/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
