@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohamedsubaishi/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohamedsubaishi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohamedsubaishi/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/mohamedsubaishi/leetcode/tree/master/0036-valid-sudoku) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohamedsubaishi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohamedsubaishi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohamedsubaishi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mohamedsubaishi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/mohamedsubaishi/leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
