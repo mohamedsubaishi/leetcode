@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mohamedsubaishi/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohamedsubaishi/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mohamedsubaishi/leetcode/tree/master/1872-stone-game-viii) |
+| [2614-prime-in-diagonal](https://github.com/mohamedsubaishi/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohamedsubaishi/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohamedsubaishi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohamedsubaishi/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/mohamedsubaishi/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/mohamedsubaishi/leetcode/tree/master/1872-stone-game-viii) |
+| [2614-prime-in-diagonal](https://github.com/mohamedsubaishi/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohamedsubaishi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/mohamedsubaishi/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mohamedsubaishi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/mohamedsubaishi/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/mohamedsubaishi/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohamedsubaishi/leetcode/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/mohamedsubaishi/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
