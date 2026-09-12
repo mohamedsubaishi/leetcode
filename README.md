@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mohamedsubaishi/leetcode/tree/master/0274-h-index) |
 | [0399-evaluate-division](https://github.com/mohamedsubaishi/leetcode/tree/master/0399-evaluate-division) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0525-contiguous-array) |
 | [0980-unique-paths-iii](https://github.com/mohamedsubaishi/leetcode/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohamedsubaishi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohamedsubaishi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mohamedsubaishi/leetcode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0525-contiguous-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohamedsubaishi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohamedsubaishi/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mohamedsubaishi/leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/mohamedsubaishi/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mohamedsubaishi/leetcode/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohamedsubaishi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohamedsubaishi/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohamedsubaishi/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
